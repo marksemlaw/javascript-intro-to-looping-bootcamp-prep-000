@@ -7,6 +7,6 @@ function forLoop(array) {
 function maybeTrue(){}
 
 function doWhileLoop(array) {
-do {pop.array
+do {array.pop()
 } while (maybeTrue());
 return array}
