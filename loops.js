@@ -6,8 +6,8 @@ function forLoop(array) {
 
 
 
-function WhileLoop(number) {
-while (number > 0) {console.log(number--)}
+function whileLoop(number) {
+while (number > 0) {console.log(number)}
 return "done"}
 
 function maybeTrue(){}
