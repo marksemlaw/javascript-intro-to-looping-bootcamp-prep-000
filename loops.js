@@ -4,8 +4,9 @@ function forLoop(array) {
   }
 }
 
+function maybeTrue(){}
+
 function doWhileLoop(array) {
-  function maybeTrue(){}
 do {
 } while (maybeTrue());
 return array}
