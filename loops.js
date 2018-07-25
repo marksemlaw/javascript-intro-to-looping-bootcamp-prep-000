@@ -4,6 +4,12 @@ function forLoop(array) {
   }
 }
 
+
+
+function WhileLoop(number) {
+while (number > 0) {console.log(number--)}
+return "done"}
+
 function maybeTrue(){}
 
 function doWhileLoop(array) {
